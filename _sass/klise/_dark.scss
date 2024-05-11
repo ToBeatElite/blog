@@ -1,6 +1,6 @@
 body[data-theme="dark"] {
   color: $dark-text-base-color;
-  background-color: $dark-black;
+  background-color: #101115;
 
   // Heading
   h1,
@@ -64,7 +64,7 @@ body[data-theme="dark"] {
   kbd {
     border-color: $dark-light;
     color: $dark-white;
-    text-shadow: 0 1px 0 $dark-black;
+    text-shadow: 0 1px 0 #101115;
   }
 
   // horizontal rule
@@ -137,7 +137,7 @@ body[data-theme="dark"] {
         color: $dark-white;
       }
       @include media-query($on-mobile) {
-        background-color: $dark-black;
+        background-color: #101115;
         border-color: $dark-light;
 
         .menu-icon {
@@ -147,7 +147,7 @@ body[data-theme="dark"] {
         }
 
         input[type="checkbox"]:checked ~ .trigger {
-          background: $dark-black;
+          background: #101115;
         }
       }
     }
