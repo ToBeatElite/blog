@@ -1,6 +1,7 @@
 ---
 title: "ROP Techniques for Controlling CPU Registers - x64"
 headline: "ROP Techniques for Controlling CPU Registers - x64"
+thumbnail: /assets/img/20240301/thumbnail.png
 ---
 
 ## Introduction
