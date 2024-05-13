@@ -10,6 +10,7 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: ToBeatElite # author name
+  fullname: Amitoj Singh
   bio: >- # tell to the world
     <i>my place for learnings, projects, and thoughts</i>
   username: ToBeatElite # general username
